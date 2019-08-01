@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579835564986",
+    "firebase_url": "https://authenticationsystem-261d7.firebaseio.com",
+    "project_id": "authenticationsystem-261d7",
+    "storage_bucket": "authenticationsystem-261d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579835564986:android:13e902080bd9ca78",
+        "android_client_info": {
+          "package_name": "com.divyanshi.garg.attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579835564986-lafhs41frn88gvcf21v4djlcqcg0fiun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divyanshi.garg.attendance_system",
+            "certificate_hash": "e53246e50d727ff41e7ee22fd4295edfac497dd1"
+          }
+        },
+        {
+          "client_id": "579835564986-ujjkpkrfccqidj7r22kg65thu8vlq2ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeICtbHnqwQMfeZMyVnAtfv5VErXGYNMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579835564986-ujjkpkrfccqidj7r22kg65thu8vlq2ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

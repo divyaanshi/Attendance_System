@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance_System</string>
+    <string name="open">Opening</string>
+    <string name="close">Closing</string>
+    <string name="result_text_default">Please focus camera to QR Code</string>
+    <string name="hint_text">Name</string>
+    <string name="title_activity_emp_login_password">EmpLoginPassword</string>
+</resources>
